@@ -23,4 +23,4 @@ Another problem we encountered was that all the operations are inside an infinit
 Of course, there were also other minor problems, but we do not mention them.<br>
 
 ### **CONCLUSIONS**
-To improve this system, it would be possible to add an analogue system to count car leaving the park and freeing spaces. It would have the same behaviour but increasing a shared counter.<br>
+To improve this system, it would be possible to add an analogue system to count car leaving the park and freeing spaces. It would have the same behaviour but increasing a shared counter.
