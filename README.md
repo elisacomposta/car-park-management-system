@@ -1,4 +1,4 @@
-Project for _Embedded software for the Internet of Things_ (university course, 2021-2022)
+Project for _Embedded software for the Internet of Things_ (_Università di Trento_, 2021-2022)
 
 # CarParkManagementSystem
 In this project @simonescevaroli and I realized an automated car park managemenet system using MSP432 and its boosterpack (Texas Instruments) , to control the number of cars entering a car park to reduce useless traffic and to avoid people wasting their time searching for a (non-existing) park.<br>
